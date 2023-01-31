@@ -1,9 +1,9 @@
-## Hi there 👋
+# Hi there 👋
 
-# Our goal:
+## Our goal:
   Our goal is to make free software.
 
-# How you can get involved:
+## How you can get involved:
   You can test and use our apps and give feedback! Share your ideas, what is good, not good, etc. with us.
   Maybe your idea will be in the next release of the app.
 
